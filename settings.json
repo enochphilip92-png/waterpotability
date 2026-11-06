@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\RATNAM\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true
+    },
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/src"
+    }
+}
